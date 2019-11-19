@@ -1,0 +1,13 @@
+ {
+	"folders":[
+		{
+			"path": "OfficeDocs-Support"
+		},
+		{
+			"path": "vsmathuronms"
+		}
+	], 
+	"settings": {
+		"totvsLanguageServer.welcomePage": false
+	}
+}

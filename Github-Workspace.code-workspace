@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "vsmathuronms"
+		},
+		{
+			"name": "vsmathur-onms.vsmathur",
+			"path": "vsmathuronms\\vsmathur-onms.vsmathur"
+		}
+	],
+	"settings": {
+		"totvsLanguageServer.welcomePage": false
+	}
+}

@@ -1,0 +1,18 @@
+ {
+"editor.formatOnType":true, 
+"editor.formatOnSave":true, 
+"editor.formatOnPaste":true, 
+"editor.find.autoFindInSelection":true, 
+"editor.fontLigatures":true, 
+"workbench.panel.defaultLocation":"bottom", 
+"tfvc.location = D:/Documents/GitHub/TEE-CLC-14.114.0/"
+"workbench.colorTheme":"Visual Studio Light1 Theme +", 
+"workbench.iconTheme":"material-icon-theme", 
+"git-autoconfig.configList":[ {
+"user.email":"vsmathur@vsmathur.onmicrosoft.com", 
+"user.name":"Vikram Shankar mathur"
+}
+], 
+"editor.suggestSelection":"first", 
+"vsintellicode.modify.editor.suggestSelection":"automaticallyOverrodeDefaultValue"
+}

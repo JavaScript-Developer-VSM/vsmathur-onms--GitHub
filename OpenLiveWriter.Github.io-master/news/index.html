@@ -1,0 +1,12 @@
+---
+layout: default
+title: News
+permalink: /news/
+download: true
+---
+
+{% for post in site.posts %}
+  {% if post.categories contains 'news' %}
+    {% include news_item.html %}
+  {% endif %}
+{% endfor %}
